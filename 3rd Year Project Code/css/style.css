@@ -1,0 +1,529 @@
+html,body {
+	background-color: #fbf7f5;
+}
+
+.header {
+	font-size: 40px;
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+.navbar-nav {
+	font-size: 20px;
+	text-align: center;
+	padding-right: 20px;
+}
+
+.item {
+	margin-bottom: 150px;
+}
+
+.page-footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.page-footer ul {
+	list-style-type: none;
+	font-size: 15px;
+	margin: auto;
+	width: 50%;
+}
+
+.page-footer a {
+	color: white;
+}
+
+.regForm {
+	background-color: #F0F0F0;
+	height: 750px;
+}
+
+.regForm h1 {
+	color: black;
+	text-align: center;
+}
+
+.regForm label {
+	color: black;
+}
+
+.formLogin {
+	background-color: #F0F0F0;
+	height: 450px;
+}
+
+.formLogin h1 {
+	color: black;
+	text-align: center;
+}
+
+.formLogin label {
+	color: black;
+}
+
+.accounts {
+	background-color: #F0F0F0;
+	height: 800px;
+}
+
+.accounts h1 {
+	text-align: center;
+	color: black;
+}
+
+.accounts p {
+	color: black;
+	font-size:25px;
+}
+
+.editaccountbutton {
+	margin-bottom: 30px;
+}
+
+.editaccounts {
+	background-color: #F0F0F0;
+	height: 450px;
+}
+
+.editaccounts h1 {
+	color: black;
+	text-align: center;
+}
+
+.editaccounts label {
+	color: black;
+}
+
+.mystuff h1 {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.itemfilespublic {
+	padding-top: 30px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.itemfilespublic h2 {
+	padding-bottom: 40px;
+	color: black;
+}
+
+.itemfilespublic a {
+	text-decoration: none;
+}
+
+.itemfilesprivate {
+	padding-top: 30px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.itemfilesprivate h2 {
+	padding-bottom: 40px;
+	color: black;
+}
+
+.itemfilesprivate a {
+	text-decoration: none;
+}
+
+.homenav {
+	list-style-type: none;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.homenav a {
+	color: white;
+	background-color: #3d7adb;
+	border-radius: 25px;
+}
+
+.homepages {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.blank {
+	background-color: #fbf7f5;
+}
+
+.description_art {
+	height: 450px;
+	background-color: #F0F0F0;
+}
+
+.newitems {
+	height: 450px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+.description_art h2 {
+	color: black;
+	text-align: center;
+}
+
+.description_art h3 {
+	color: black;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.description_art li {
+	text-align: center;
+	list-style-type: none;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.description_art a {
+	font-size: 30px;
+}
+
+.description_art button {
+	margin-top: 20px;
+}
+
+.responsive_art {
+	background-color: #F0F0F0;
+}
+
+.responsive_art img {
+	padding-right: 90px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.responsive_art_portrait {
+	background-color: #F0F0F0;
+}
+
+.responsive_art_portrait img {
+	padding-right: 90px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.yourstuffitemfilespublic h1 {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.yourstuffitemfilespublic {
+	padding-top: 30px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+.yourstuffitemfilespublic h2{
+	padding-bottom: 40px;
+	color: black;
+}
+
+.messagelink {
+	font-size: 20px;
+	list-style-type: none;
+	padding-bottom: 20px;
+}
+
+.messagelink a {
+	text-align: center;
+}
+
+.messager { 
+	list-style-type: none;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 10px;
+	background-color: #42f57b;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	box-shadow: 5px 6px #888888;
+}
+
+.messager a {
+	text-align: center;
+}
+
+.messageform {
+	text-align: center;
+	padding-bottom: 100px;
+	padding-top: 20px;
+}
+
+.messageform label{
+	font-size: 30px;
+}
+
+.messages h3 {
+	font-size: 30px;
+	margin-top: 8px;
+}
+
+.messages p {
+	color: black;
+	font-size: 25px;
+	background-color: #42f57b;
+	border-radius: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 8px;
+	max-width: 800px;
+	word-wrap: break-word;
+	white-space: pre-line;
+}
+
+.addpostlink {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 15px;
+	list-style-type: none;
+}
+
+.addpostlink a {
+	color: white;
+	background-color: #3d7adb;
+	border-radius: 25px;
+	padding: 8px;
+	text-decoration: none;
+}
+
+.addpostheader {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.addpost {
+	text-align: center;
+	padding-top: 5px;
+}
+
+.discussion-box {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.discussion {
+	background-color: #F0F0F0;
+	margin-top: 30px;
+	margin-bottom: 70px;
+	max-width: 1900px;
+}
+
+.discussion li {
+	list-style-type: none;
+	font-size: 30px;
+	text-align: center;
+}
+
+.discussion p {
+	font-size: 30px;
+	background-color: #fcfcfc;
+	word-wrap: break-word;
+	white-space: pre-line;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.about {
+	padding-top: 30px;
+	background-color: #fcfcfc;
+}
+
+.about p {
+	font-size: 30px;
+	text-align: center;
+	width: 1200px;
+}
+
+@media only screen and (max-width: 1400px) {
+
+	.blank {
+		display: none;
+	}
+
+	.description_art {
+		height: 400px;
+	}
+
+	.responsive_art img {
+		background-color: #F0F0F0;
+		width: 700px;
+	}
+
+	.responsive_art_portrait img {
+		background-color: #F0F0F0;
+		width: 400px;
+	}
+
+	.itemfilespublic img {
+		width: 400px;
+	}
+
+	.itemfilesprivate img {
+		width: 400px;
+	}
+
+	.about p {
+		width: 950px;
+	}
+
+}
+
+@media only screen and (max-width: 780px) {
+	
+	.blank {
+		display: none;
+	}
+
+	.description_art {
+		height: 400px;
+	}
+
+	.responsive_art img {
+		background-color: #F0F0F0;
+		width: 500px;
+	}
+
+	.responsive_art_portrait img {
+		background-color: #F0F0F0;
+		width: 300px;
+	}
+	
+	.itemfilespublic img {
+		width: 325px;
+	}
+
+	.itemfilesprivate img {
+		width: 325px;
+	}
+	
+	.about p {
+		width: 725px;
+	}
+	
+	.messages h3 {
+		font-size: 25px;
+	}
+	
+	.messages p {
+		font-size: 22px;
+		max-width: 600px;
+	}
+	
+}
+
+@media only screen and (max-width: 600px) {
+	
+	.header {
+		font-size: 20px;
+	}
+
+	.navbar-nav {
+		font-size: 12px;
+		padding-right: 0px;
+	}
+	
+	.homenav {
+		font-size: 12px;
+		padding-top: 5px;
+	}
+
+	.page-footer ul {
+		font-size: 15px;
+		margin-left: 0%;
+	}
+	
+	.regForm {
+		height: 1000px;
+	}
+	
+	.blank {
+		display: none;
+	}
+	
+	.description_art {
+		height: 250px;
+	}
+	
+	.responsive_art img {
+		background-color: #F0F0F0;
+		width: 350px;
+		height: 350px;
+		padding-top: 0px;
+		padding-right: 0px;
+	}
+
+	.responsive_art_portrait img {
+		background-color: #F0F0F0;
+		width: 250px;
+	}
+	
+	.newitems {
+		margin-bottom: 300px;
+	}
+	
+	.itemfilespublic {
+		margin-bottom: 80px;
+	}
+	
+	.itemfilesprivate {
+		margin-bottom: 80px;
+	}
+	
+	.itemfilespublic img {
+		width: 160px;
+	}
+
+	.itemfilesprivate img {
+		width: 160px;
+	}
+	
+	.addpostlink {
+		font-size: 12px;
+	}
+	
+	.discussion li {
+		font-size: 25px;
+	}
+
+	.discussion p {
+		font-size: 15px;
+	}
+	
+	.yourstuffitemfilespublic img {
+		width: 350px;
+	}
+	
+	.messageform textarea{
+		width: 300px;
+	}
+	
+	.messages h3 {
+		font-size: 20px;
+	}
+	
+	.messages p {
+		font-size: 18px;
+		max-width: 250px;
+	}
+	
+	.messagebutton {
+		margin-bottom: 30px;
+	}
+	
+	.about p {
+		width: 370px;
+	}
+}
